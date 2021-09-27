@@ -9,6 +9,7 @@ public class Person {
 	//¸Þ¼Òµå
 public void eat() {
 	System.out.println("¹äÀ» ¸Ô´Â´Ù.");
+	System.out.println("µÕµÕ");
 }
 	
 	
